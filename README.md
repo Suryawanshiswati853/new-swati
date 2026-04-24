@@ -67,7 +67,7 @@ Contains shared logic, reusable components, and main feature modules.
 
 Holds app-wide constant values:
 
-* `app_colors.dart` → defines color palette
+* `app_colors.dart` → defines colors 
 * `app_style.dart` → defines text styles, themes, UI styling
 
 -----------------------------------------------------------------
@@ -113,9 +113,9 @@ Contains all UI-related code:
 * `custom_searchbar.dart` → search input UI
 * `header_box.dart` → header display
 * `reorder_stock_list.dart` → draggable list UI
-* `sort_button.dart` → sorting control
-* `stock_tile.dart` → individual stock item UI
-* `top_index.dart` → index display (e.g., market summary)
+* `sort_button.dart` → sort button
+* `stock_tile.dart` →  stock item UI
+* `top_index.dart` →  top index display
 * `watchlist_tab.dart` → tab navigation
 -----------------------------------------------------------------------------
 **Screens:**

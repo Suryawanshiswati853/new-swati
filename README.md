@@ -1,6 +1,6 @@
 # new-swati
 
-create project for Trading application - 021 Trade.
+  new project for Trading application - 021 Trade.
 as per video recording provided i try to create same design of screens
 my folder structure is
 ```

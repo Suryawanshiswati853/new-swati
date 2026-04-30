@@ -1,5 +1,5 @@
 # new-swati
 
- my new project
+my new project
 
 

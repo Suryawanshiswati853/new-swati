@@ -3,7 +3,8 @@
  Spend Summary – Flutter App
 
 A responsive Flutter application that displays monthly spending, category-wise expenses, and a list of recent transactions.  
-It supports **light/dark mode**, and uses **hardcoded mock data** – no backend required.
+It supports **light/dark mode**, and uses **hardcoded mock data** – no backend required. 
+AI Tool used deep seek.
 
 ##  Features
 
